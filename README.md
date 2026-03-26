@@ -54,7 +54,9 @@ pip install -r requirements.txt
 
 2. Open the notebook:
 
-```ETLDevProjects/RH/transform/rh_guardian.ipynb ```
+```
+ETLDevProjects/RH/transform/rh_guardian.ipynb
+```
 
 3. Update the configuration section at the top of the notebook if using a different dataset or file name.  
 
