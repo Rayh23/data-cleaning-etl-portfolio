@@ -1,0 +1,25 @@
+# Jupyter
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local outputs
+outputs/
+logs/
+records/
+processed/
+garbage/
+
+# Dataset files
+*.csv
