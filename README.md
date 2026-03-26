@@ -35,7 +35,7 @@ data-cleaning-etl-portfolio/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ## Notes
 
 This notebook was originally built around a specific structured dataset and has been sanitized for portfolio use.
@@ -50,10 +50,11 @@ The ETL framework, folder scaffolding, logging, validation flow, and deduplicati
 
 ```bash
 pip install -r requirements.txt
+```
 
 2. Open the notebook:
 
-```ETLDevProjects/RH/transform/rh_guardian.ipynb
+```ETLDevProjects/RH/transform/rh_guardian.ipynb ```
 
 3. Update the configuration section at the top of the notebook if using a different dataset or file name.  
 
